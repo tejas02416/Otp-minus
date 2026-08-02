@@ -1,4 +1,3 @@
-# Otp-minus
 # Universal OTP Authentication SaaS Platform (`Otp-minus`)
 
 A modern, cloud-based **Software-as-a-Service (SaaS) OTP Authentication Platform** built for developers to add secure multi-channel OTP verification to their websites and mobile applications through APIs and SDKs.
